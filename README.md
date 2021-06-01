@@ -1,4 +1,4 @@
-# Predicting-Ad-Clicks
+# Predicting-Ad-Clicks (Click through Rate)
 
 ## Objective
 
